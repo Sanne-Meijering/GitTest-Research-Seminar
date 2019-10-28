@@ -5,3 +5,5 @@ print[x]
 y <- "commitment issues"
 
 cat("hello, this is a test:", x[1], x[2], x[3], sep=" ")
+
+# Sanne was here
